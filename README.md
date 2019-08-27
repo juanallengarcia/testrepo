@@ -1,4 +1,6 @@
 # testrepo
 new test repo
 
-Hello GitHub! This is to test the branching functionality.
+x
+
+Deleted text: "Hello GitHub! This is to test the branching functionality."
